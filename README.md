@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAPC001
+- 👋 Hi, I’m JOHNLIN
 - 👀 I’m interested in code
 - 🌱 I’m currently learning python
 
